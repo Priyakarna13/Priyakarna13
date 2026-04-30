@@ -1,15 +1,4 @@
-## Hi there! I'm Sri Lakshmi Priya Dwarakanath, you can call me - Sri ✨
 
-
-🎓 Master’s student in Robotics and AI at ASU with a strong ML and data science background<br/>
-
-🔬 Research Assistant at ASU’s Jiang Lab, enhancing protein mutation prediction accuracy<br/>
-
-💻 I currently work as a Tech Consultant at Tech Devil Consultants, helping bridge technology and innovation<br/>
-
-📊 Former Data Analyst at ANZ, boosting customer engagement by 30%<br/>
-
-🌱 Passionate about tech innovation and community impact<br/>
 
 
 
